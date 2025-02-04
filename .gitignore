@@ -1,1 +1,10 @@
-
+# Ignore unnecessary files
+│   │   
+│   │   __pycache__/
+│   │   *.pyc
+│   │   *.pyo
+│   │   .DS_Store
+│   │   venv/
+│   │   *.db
+│   │   *.log
+│   │   .env
