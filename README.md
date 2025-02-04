@@ -2,8 +2,8 @@
 │   │   
 │   │   This project is a **Scalable ETL Pipeline** designed to extract, transform, and load e-commerce data.
 │   │   
-│   │   ## Features
-│   │   - **Extract** data from APIs and databases.
+│   │   Features
+│   │   - Extract** data from APIs and databases.
 │   │   - **Transform** data by cleaning and normalizing it.
 │   │   - **Load** the processed data into a SQLite database.
 │   │   - **Dockerized** for easy deployment.
