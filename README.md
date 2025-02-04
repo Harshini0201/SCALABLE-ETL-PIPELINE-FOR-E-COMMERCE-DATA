@@ -1,6 +1,6 @@
 # Scalable ETL Pipeline for E-Commerce Data
-│   │   
-│   │   This project is a **Scalable ETL Pipeline** designed to extract, transform, and load e-commerce data.
+**About the Project**
+This project is a **Scalable ETL Pipeline** designed to extract, transform, and load e-commerce data.
 │   │   
 │   │   ## Features
 │   │   1. Extract data from APIs and databases.
