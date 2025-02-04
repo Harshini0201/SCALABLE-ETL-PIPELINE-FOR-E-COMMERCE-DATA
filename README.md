@@ -3,13 +3,13 @@
 │   │   This project is a **Scalable ETL Pipeline** designed to extract, transform, and load e-commerce data.
 │   │   
 │   │   Features
-│   │   - Extract** data from APIs and databases.
-│   │   - **Transform** data by cleaning and normalizing it.
-│   │   - **Load** the processed data into a SQLite database.
-│   │   - **Dockerized** for easy deployment.
-│   │   - **Supports workflow automation** via Apache Airflow.
+│   │   Extract data from APIs and databases.
+│   │   Transform data by cleaning and normalizing it.
+│   │   Load the processed data into a SQLite database.
+│   │   Dockerized for easy deployment.
+│   │   Supports workflow automation** via Apache Airflow.
 │   │   
-│   │   ## Installation
+│   │   Installation
 │   │   1. Clone the repository:
 │   │      ```bash
 │   │      git clone https://github.com/your-repo/scalable-etl-pipeline.git
@@ -20,7 +20,7 @@
 │   │      pip install -r requirements.txt
 │   │      ```
 │   │   
-│   │   ## Usage
+│   │   Usage
 │   │   Run the ETL pipeline:
 │   │   ```bash
 │   │   python main.py
