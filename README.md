@@ -2,12 +2,12 @@
 │   │   
 │   │   This project is a **Scalable ETL Pipeline** designed to extract, transform, and load e-commerce data.
 │   │   
-│   │   Features
-│   │   Extract data from APIs and databases.
-│   │   Transform data by cleaning and normalizing it.
-│   │   Load the processed data into a SQLite database.
-│   │   Dockerized for easy deployment.
-│   │   Supports workflow automation** via Apache Airflow.
+│   │   ## Features
+│   │   1. Extract data from APIs and databases.
+│   │   2. Transform data by cleaning and normalizing it.
+│   │   3. Load the processed data into a SQLite database.
+│   │   4. Dockerized for easy deployment.
+│   │   5. Supports workflow automation** via Apache Airflow.
 │   │   
 │   │   Installation
 │   │   1. Clone the repository:
