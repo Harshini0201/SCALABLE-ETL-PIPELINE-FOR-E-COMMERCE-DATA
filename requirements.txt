@@ -1,0 +1,8 @@
+# Python dependencies
+│   │   
+│   │   pandas
+│   │   requests
+│   │   sqlite3
+│   │   psycopg2-binary
+│   │   apache-airflow
+│   │   pytest
